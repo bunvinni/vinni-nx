@@ -2,11 +2,16 @@
 		   "groupname" : "moonman"
 		   "themes":[
 			   {
-				   "name":"Theme name",
+				   "name":"moonman home",
 				   "target":"home",
-				   "url":"http://.../file.nxtheme",
-				   "preview":"http://.../file.jpg",
+				   "url":"https://github.com/bunvinni/vinni-nx/blob/master/themes/moonman/home.nxtheme",
+				   "preview":"https://github.com/bunvinni/vinni-nx/blob/master/themes/moonman/home%20preview.jpg",
 			   },
-			   ... more themes with the same structure here
+				 {
+				   "name":"moonman lock",
+				   "target":"lock",
+				   "url":"https://github.com/bunvinni/vinni-nx/blob/master/themes/moonman/lock.nxtheme",
+				   "preview":"https://github.com/bunvinni/vinni-nx/blob/master/themes/moonman/lock%20preview.jpg",
+			   },
 		   ]
 		}
