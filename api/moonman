@@ -1,0 +1,12 @@
+{
+		   "groupname" : "moonman"
+		   "themes":[
+			   {
+				   "name":"Theme name",
+				   "target":"home",
+				   "url":"http://.../file.nxtheme",
+				   "preview":"http://.../file.jpg",
+			   },
+			   ... more themes with the same structure here
+		   ]
+		}
