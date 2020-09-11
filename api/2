@@ -1,0 +1,10 @@
+{
+	"themes": [
+		{
+			"name": "Happy theme",
+			"target": "lock",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happylock.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		}
+	]
+}

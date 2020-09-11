@@ -1,0 +1,46 @@
+{
+	"groupname" : "Test github repos",
+	"themes": [{
+			"name": "Happy theme",
+			"target": "home",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happyhome.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		},
+		{
+			"name": "Happy theme",
+			"target": "lock",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happylock.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		},
+		{
+			"name": "Happy theme",
+			"target": "news",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happynews.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		},
+		{
+			"name": "Happy theme",
+			"target": "psl",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happypsl.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		},
+		{
+			"name": "Happy theme",
+			"target": "apps",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happyapps.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		},
+		{
+			"name": "Happy theme",
+			"target": "set",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happyset.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		},
+		{
+			"name": "nyan cat",
+			"target": "home",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/test.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/nyan.jpg"
+		}
+	]
+}

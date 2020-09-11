@@ -1,0 +1,10 @@
+{
+	"themes": [
+		{
+			"name": "Happy theme",
+			"target": "home",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happyhome.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/happy.jpg"
+		}
+	]
+}

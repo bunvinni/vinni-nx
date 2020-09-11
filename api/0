@@ -1,0 +1,11 @@
+{
+	"themes":
+	[
+		{
+			"name": "nyan cat",
+			"target": "home",
+			"url": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/test.nxtheme",
+			"preview": "https://raw.githubusercontent.com/exelix11/TestThemeRepo/master/themes/nyan.jpg"
+		}
+	]
+}
